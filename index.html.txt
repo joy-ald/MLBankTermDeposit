@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Student's Score vs Hours Studied</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="chart-container">
+      <svg width="600" height="400"></svg>
+    </div>
+
+    <!-- D3.js library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
